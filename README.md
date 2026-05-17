@@ -42,8 +42,8 @@ iptables
 ```bash
 .
 ├── attack.sh
-├── README.md
-└── screenshots/
+└── README.md
+
 ```
 
 ---
